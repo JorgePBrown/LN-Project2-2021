@@ -1,0 +1,45 @@
+0	31  uma         0
+0	12	duas	    0
+0   13  tres        0
+0	14	quatro      0
+0	15	cinco	    0
+0   16  seis        0
+0	17	sete        0
+0	18	oito	    0
+0   19  nove        0
+0   10  dez         1
+0   11  onze        1
+0   12  doze        1
+0   13  treze       1
+0   14  catorze     1
+0   15  quinze      1
+0   16  dezasseis   1
+0   17  dezassete   1
+0   18  dezoito     1
+0   19  dezanove    1
+0   1   vinte       2
+1   20  eps         0
+1   2   e           eps
+2   20  uma         1
+2   20  duas        2
+2   20  tres        3
+10  20  eps         0
+11  20  eps         1
+12  20  eps         2
+13  20  eps         3
+14  20  eps         4
+15  20  eps         5
+16  20  eps         6
+17  20  eps         7
+18  20  eps         8
+19  20  eps         9
+
+31  21  eps         1
+
+20  22  horas        eps
+20  22  eps         eps
+
+21  22  hora       eps
+21  22  eps         eps
+
+22

@@ -1,0 +1,12 @@
+0   1   um          eps
+1   10  quarto      quinze
+
+0   2   dois        eps
+2   10  quartos     trinta
+
+0   3   tres        eps
+3   4   quartos     quarenta
+4   5   eps         e
+5   10  eps         cinco
+
+10
