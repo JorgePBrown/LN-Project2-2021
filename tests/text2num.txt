@@ -1,0 +1,5 @@
+0   2   dez
+2   3   e
+3   4   zero
+4   5   minutos
+5

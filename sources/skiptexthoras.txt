@@ -1,0 +1,42 @@
+0   100     uma         uma
+0   101     duas        duas
+0   101     tres        tres
+0   101     quatro      quatro
+0   101     cinco       cinco
+0   101     seis        seis
+0   101     sete        sete
+0   101     oito        oito
+0   101     nove        nove
+0   101     dez         dez
+0   101     onze        onze
+0   101     doze        doze
+0   101     treze       treze
+0   101     catorze     catorze
+0   101     quinze      quinze
+0   101     dezasseis   dezasseis
+0   101     dezassete   dezassete
+0   101     dezoito     dezoito
+0   101     dezanove    dezanove
+0   1       vinte       vinte
+
+1   101     eps     eps
+1   2       e       e
+
+2   101     uma     uma
+2   101     duas    duas
+2   101     tres    tres
+2   101     quatro  quatro
+2   101     cinco   cinco
+2   101     seis    seis
+2   101     sete    sete
+2   101     oito    oito
+2   101     nove    nove
+
+100 102     eps     eps
+100 102     hora    hora
+
+101 102     eps     eps
+101 102     horas   horas
+
+102
+

@@ -1,0 +1,64 @@
+0   70  zero        0
+0   91  um          0
+0   72  dois        0
+0   73  tres        0
+0   74  quatro      0
+0   75  cinco       0
+0   76  seis        0
+0   77  sete        0
+0   78  oito        0
+0   79  nove        0
+
+0   70  dez         1
+0   71  onze        1
+0   72  doze        1
+0   73  treze       1
+0   74  catorze     1
+0   75  quinze      1
+0   76  dezasseis   1
+0   77  dezassete   1
+0   78  dezoito     1
+0   79  dezanove    1
+
+0   2   vinte       2
+0   2   trinta      3
+0   2   quarenta      4
+0   2   cinquenta      5
+
+2   70  eps         eps
+2   20  e           eps
+
+20  71  um          eps
+20  72  dois        eps
+20  73  tres        eps
+20  74  quatro      eps
+20  75  cinco       eps
+20  76  seis        eps
+20  77  sete        eps
+20  78  oito        eps
+20  79  nove        eps
+
+70  81  eps         0
+71  81  eps         1
+72  81  eps         2
+73  81  eps         3
+74  81  eps         4
+75  81  eps         5
+76  81  eps         6
+77  81  eps         7
+78  81  eps         8
+79  81  eps         9
+
+91  82  minuto      1
+91  82  eps         1
+
+80  82  minuto      eps
+80  82  eps         eps
+
+81  82  minutos     eps
+81  82  eps         eps
+82
+
+
+
+
