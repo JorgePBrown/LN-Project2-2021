@@ -1,0 +1,4 @@
+0	1	doze
+1	2	e
+2	3	quarenta
+3

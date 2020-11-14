@@ -1,0 +1,6 @@
+0	1	doze
+1	2	e
+2	3	trinta
+3	4	e
+4	5	tres
+5

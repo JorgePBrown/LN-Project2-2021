@@ -1,0 +1,6 @@
+0	1	doze
+1	2	horas
+2	3	e
+3	4	um
+4	5	quarto
+5

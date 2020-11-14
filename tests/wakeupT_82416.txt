@@ -1,0 +1,4 @@
+0	1	oito
+1	2	e
+2	3	catorze
+3

@@ -1,0 +1,8 @@
+0	1	dez
+1	2	horas
+2	3	e
+3	4	quarenta
+4	5	e
+5	6	sete
+6	7	minutos
+7

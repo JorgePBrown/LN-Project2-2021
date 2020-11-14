@@ -1,0 +1,5 @@
+0	1	doze
+1	2	e
+2	3	um
+3	4	quarto
+4
