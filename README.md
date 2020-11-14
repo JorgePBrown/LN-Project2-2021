@@ -4,12 +4,12 @@ To compile all files just execute `./run.sh` inside the project folder. All comp
 
 # Testing
 
-To test execute `./test.sh xpto` inside the project folder. This will test the source file(inside the _sources_ folder) called __xpto__ with the test file(inside the _tests_ folder) called __xpto__.
+To test execute `./test.sh <tested> <tester>` inside the project folder. This will test the transducer file __tested__ with the __tester__.
 
 # Developing
 
 For ease of testing new solutions this commands can be ran in this manner:
 
 ```
-./run.sh && ./test.sh xpto
+./run.sh && ./test.sh <transducer you are working on> <test>
 ```
