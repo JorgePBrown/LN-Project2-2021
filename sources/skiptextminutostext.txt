@@ -1,0 +1,6 @@
+0 102     minuto  minuto
+0 102     eps     eps
+
+0 102     minutos  minutos
+0 102     eps     eps
+102

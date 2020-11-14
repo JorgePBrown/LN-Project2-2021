@@ -1,3 +1,4 @@
+0   101     zero        zero
 0   100     uma         uma
 0   101     duas        duas
 0   101     tres        tres

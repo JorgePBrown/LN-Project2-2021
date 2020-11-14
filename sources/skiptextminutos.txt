@@ -1,0 +1,39 @@
+0   100     zero        zero
+0   100     um          um
+0   100     dois        dois
+0   100     tres        tres
+0   100     quatro      quatro
+0   100     cinco       cinco
+0   100     seis        seis
+0   100     sete        sete
+0   100     oito        oito
+0   100     nove        nove
+0   100     dez         dez
+0   100     onze        onze
+0   100     doze        doze
+0   100     treze       treze
+0   100     catorze     catorze
+0   100     quinze      quinze
+0   100     dezasseis   dezasseis
+0   100     dezassete   dezassete
+0   100     dezoito     dezoito
+0   100     dezanove    dezanove
+0   1       vinte       vinte
+0   1       trinta      trinta
+0   1       quarenta    quarenta
+0   1       cinquenta   cinquenta
+
+1   100     eps     eps
+1   2       e       e
+
+2   100     um      um
+2   100     dois    dois
+2   100     tres    tres
+2   100     quatro  quatro
+2   100     cinco   cinco
+2   100     seis    seis
+2   100     sete    sete
+2   100     oito    oito
+2   100     nove    nove
+
+100

@@ -1,4 +1,4 @@
-0   10  zero        0
+0	10  zero        0
 0	31  uma         0
 0	12	duas	    0
 0   13  tres        0
@@ -37,10 +37,8 @@
 
 31  21  eps         1
 
-20  22  horas        eps
-20  22  eps         eps
+20  22  horas       eps
 
-21  22  hora       eps
-21  22  eps         eps
+21  22  hora        eps
 
 22

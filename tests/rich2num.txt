@@ -1,0 +1,6 @@
+0   1   zero
+1   2   horas
+2   3   e
+3   4   um
+4   5   minuto
+5
